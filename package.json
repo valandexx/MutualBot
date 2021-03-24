@@ -1,0 +1,23 @@
+{
+  "name": "mutual-bot",
+  "version": "1.0.0",
+  "description": "Mutual - Discord multipurpose bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MutualSX/MutualBot.git"
+  },
+  "author": "Elijah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MutualSX/MutualBot/issues"
+  },
+  "homepage": "https://github.com/MutualSX/MutualBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "nodemon": "^2.0.7"
+  }
+}
